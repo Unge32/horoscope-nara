@@ -1,0 +1,1 @@
+Write one fake horoscope, 200 characters or fewer, that an AI agent would read for its own model family this week. The entry must have one named character/hook: Nara.
